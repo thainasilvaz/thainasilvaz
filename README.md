@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1>Hello World!</h1>
+</div>
 
-<!--
-**thainasilvaz/thainasilvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💭 Cursando Desenvolvimento de Sistemas
+- 💭 Segundo ano do ensino médio
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99843232/183812577-374a55e5-95d8-4e90-bf72-a33643a5e276.gif"  width="830px"/><br>
+</div>
+
+
+![Snake animation](https://github.com/ThainaSilva4/ThainaSilva4/blob/output/github-contribution-grid-snake.svg)
+
