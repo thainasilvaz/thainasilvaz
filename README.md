@@ -4,6 +4,7 @@
 
 - 💭 Cursando Desenvolvimento de Sistemas
 - 💭 Segundo ano do ensino médio
+- 💭 Meu nome é bruto, sobrenome memo
 
 
 <div align="center">
