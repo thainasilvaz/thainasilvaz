@@ -4,6 +4,7 @@
 
 - 💭 Cursando Desenvolvimento de Sistemas
 - 💭 Terceiro ano do ensino médio
+- 💭 Aprenda com o ontem. Viva o hoje. tenha esperança para o amanhã. ~Albert Einstein
 
 
 <div align="center">
