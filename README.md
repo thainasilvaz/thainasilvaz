@@ -4,7 +4,7 @@
 
 - 💭 Cursando Desenvolvimento de Sistemas
 - 💭 Terceiro ano do ensino médio
-- 💭 Aprenda com o ontem. Viva o hoje. tenha esperança para o amanhã. ~Albert Einstein
+- 💭 Aprenda com o ontem, viva para o hoje, esperança para o amanhã. O importante é não parar de questionar. ~Albert Einstein
 
 
 <div align="center">
