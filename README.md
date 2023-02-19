@@ -3,7 +3,7 @@
 </div>
 
 - 💭 Cursando Desenvolvimento de Sistemas
-- 💭 Segundo ano do ensino médio
+- 💭 Terceiro ano do ensino médio
 
 
 <div align="center">
