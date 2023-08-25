@@ -4,7 +4,7 @@
 
 - 💭 Cursando Desenvolvimento de Sistemas
 - 💭 Terceiro ano do ensino médio
-- 💭 Aprenda com o ontem, viva para o hoje, esperança para o amanhã. O importante é não parar de questionar. ~Albert Einstein
+- 💭 "Não treine até acertar, treine até que seja impossível errar."
 
 
 <div align="center">
