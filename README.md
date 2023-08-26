@@ -25,7 +25,9 @@
   
 
 <div align="center">
-![Thaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=transparent)
+  
+![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
+  
 </div>
 
 ![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
