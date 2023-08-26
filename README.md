@@ -15,12 +15,11 @@
 ## Take a look:
 <div align="center">
   
-![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&hide=hack,&layout=compact&langs_count=8&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&hide=hack,&layout=compact&langs_count=8&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats">
   
 </div>
 
 ![Snake animation](https://github.com/ThainaSilva4/ThainaSilva4/blob/output/github-contribution-grid-snake.svg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&hide=hack,&layout=compact&langs_count=8&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats">
+
