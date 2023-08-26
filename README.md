@@ -22,4 +22,4 @@
 
 ![Snake animation](https://github.com/ThainaSilva4/ThainaSilva4/blob/output/github-contribution-grid-snake.svg)
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98fb98&height=120&section=footer"/>
