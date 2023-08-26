@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98fb98&height=120&section=header"/>
+<div align="center">
+
 <div align="center">
 <h1>Hello World!</h1>
 </div>
@@ -30,7 +33,6 @@
   
 </div>
 
-![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ![Snake animation](https://github.com/ThainaSilva4/ThainaSilva4/blob/output/github-contribution-grid-snake.svg)
 
