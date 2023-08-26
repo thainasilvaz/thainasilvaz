@@ -16,7 +16,7 @@
 <div align="center">
   
 ![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&hide=blade,hack,shell,javascript&layout=donut&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&hide=blade,hack,shell,javascript,css&layout=donut&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats)
   
 </div>
 
