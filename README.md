@@ -12,7 +12,7 @@
 <img src="https://1.bp.blogspot.com/-CxHfFu-JkK8/Xv-s-3kBEDI/AAAAAAAAKl0/peTttl0nLD4uhbA51bqPsgT6Bv5s37I7wCNcBGAsYHQ/s1600/84622a3bc9dba661a6bd17fd8fb90884.gif" height="470em">
 </div>
 
-## Take a look:
+## Progress:
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only">
