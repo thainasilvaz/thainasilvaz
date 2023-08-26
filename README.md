@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/99843232/183812577-374a55e5-95d8-4e90-bf72-a33643a5e276.gif"  width="830px"/><br>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
