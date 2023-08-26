@@ -15,8 +15,8 @@
 ## Take a look:
 <div align="center">
   
-![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&hide=html,blade_icons=true&theme=dark#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&layout=donut&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats)
+![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thainasilvaz&hide=blade&layout=donut&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats)
   
 </div>
 
