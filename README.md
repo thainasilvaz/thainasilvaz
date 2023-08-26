@@ -32,10 +32,15 @@
 
 <div align="center">
   
-[![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thainasilvaz/github-readme-stats#gh-dark-mode-only)
+![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)
   
 </div>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 ![Snake animation](https://github.com/ThainaSilva4/ThainaSilva4/blob/output/github-contribution-grid-snake.svg)
-![Thaina's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/thainasilvaz/github-readme-stats#gh-dark-mode-only)
+
