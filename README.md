@@ -5,7 +5,6 @@
 
 - 💭 Cursando Desenvolvimento de Sistemas
 - 💭 Terceiro ano do ensino médio
-- 💭 "Não treine até acertar, treine até que seja impossível errar."
 
 <div align ="center">
 <a href="https://github.com/thainasilvaz">
