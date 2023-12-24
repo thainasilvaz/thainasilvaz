@@ -6,11 +6,6 @@
 - 💭 Cursando Desenvolvimento de Sistemas
 - 💭 Terceiro ano do ensino médio
 
-<div align ="center">
-<a href="https://github.com/thainasilvaz">
-<img src="https://1.bp.blogspot.com/-CxHfFu-JkK8/Xv-s-3kBEDI/AAAAAAAAKl0/peTttl0nLD4uhbA51bqPsgT6Bv5s37I7wCNcBGAsYHQ/s1600/84622a3bc9dba661a6bd17fd8fb90884.gif" height="470em">
-</div>
-
 ## Progress:
 <div align="center">
   
