@@ -5,6 +5,7 @@
 
 - 💭 Técnica em Desenvolvimento de Sistemas
 - 💭 Ensino médio e técnico na ETEC Zona Leste
+- 💭 Inglês intermediário/avançado
 
 ## Progress:
 <div align="center">
