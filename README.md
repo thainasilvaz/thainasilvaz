@@ -3,8 +3,7 @@
 <h1>Hello World!</h1>
 </div>
 
-- 💭 Cursando Desenvolvimento de Sistemas
-- 💭 Terceiro ano do ensino médio
+- 💭 Técnica em Desenvolvimento de Sistemas
 
 ## Progress:
 <div align="center">
