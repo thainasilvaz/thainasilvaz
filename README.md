@@ -6,6 +6,7 @@
 - 💭 Técnica em Desenvolvimento de Sistemas
 - 💭 Ensino médio e técnico na ETEC Zona Leste
 - 💭 Inglês intermediário/avançado
+- 💭 Desenvolvedora Aprendiz na TIVIT
 
 ## Progress:
 <div align="center">
