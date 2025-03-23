@@ -8,6 +8,7 @@
 - 💭 Inglês intermediário/avançado
 - 💭 Estagiária na TIVIT
 - 💭 Cursando Sistemas de Informação na USP
+- 💭 Atualmente interessada em Inteligência Artificial
 
 ## Progress:
 <div align="center">
