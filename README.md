@@ -1,14 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98fb98&height=120&section=header"/>
 <div align="center">
-<h1>Hello World!</h1>
+<h1>Welcome, I'm Thainá <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /></h1>
 </div>
 
-- 💭 Técnica em Desenvolvimento de Sistemas
-- 💭 Ensino médio e técnico na ETEC Zona Leste
-- 💭 Inglês intermediário/avançado
-- 💭 Estagiária na TIVIT
-- 💭 Cursando Sistemas de Informação na USP
-- 💭 Atualmente interessada em Inteligência Artificial
+- 💭 I'm 20 years old
+- 💭 Systems Development Technique
+- 💭 Information Systems - USP
+- 💭 Intern at TIVIT
+- 💭 Main interests at the moment: AI, Data Science, Applied Mathematics
 
 ## Progress:
 <div align="center">
