@@ -51,11 +51,6 @@
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  ![Thainá's GitHub stats](https://github-readme-stats.vercel.app/api?username=thainasilvaz&show_icons=true&theme=dracula)or=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
 
 
 #
