@@ -52,7 +52,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thainasilvaz/thainasilvaz/output/snake.svg" alt="Snake animation" />
-</div>
