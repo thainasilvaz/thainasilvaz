@@ -50,5 +50,3 @@
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="25"/>
 </div>
-
----
