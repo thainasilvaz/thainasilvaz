@@ -50,12 +50,3 @@
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="25"/>
 </div>
-
-#
----
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thainasilvaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-</p>
