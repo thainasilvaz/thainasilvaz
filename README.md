@@ -10,14 +10,16 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img src="https://media.tenor.com/g1DaTEDq32YAAAAM/jiro-jiro-horikoshi.gif" align="right" width="250" height="190px" style="margin-left: 20px; border-radius: 15px;">
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:thaina.ferreira026@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/thainá-ferreira-da-silva-4406a3275/)
 
-<h3 align="left">My Stack ~</h3>
+
+<h3 align="left">Tecnologies</h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -50,3 +52,10 @@
 </div>
 
 #
+---
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thainasilvaz&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
